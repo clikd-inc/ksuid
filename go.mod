@@ -1,3 +1,3 @@
-module github.com/signoz/ksuid
+module github.com/clikd-inc/ksuid
 
 go 1.12
